@@ -70,6 +70,7 @@ I love to cook, workout, watch shows, and I speak fluent Russian!
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AKS](https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GKE](https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 📊 Observability & Monitoring
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
