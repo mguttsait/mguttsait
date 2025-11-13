@@ -37,7 +37,7 @@ Currently, I'm working on **platform engineering** at **Anheuser-Busch**, suppor
 - Supported AI-powered writing platform serving college students and K-12 education
 - Managed infrastructure for plagiarism detection and AI-driven grammar feedback systems
 - Implemented cloud infrastructure across AWS and GCP
-- Built monitoring and alerting systems with Datadog and Prometheus
+- Built monitoring and alerting systems with GCloud Monitoring
 
 ### 🧪 **Schrödinger** — *Site Reliability Engineer*
 *Previous*
@@ -47,11 +47,11 @@ Currently, I'm working on **platform engineering** at **Anheuser-Busch**, suppor
 - Infrastructure as Code implementation using Terraform
 - Supported high-performance computing workloads
 
-### 🎮 **WB Games** — *Site Reliability Engineer*
+### 🎮 **WB Games** — *DevOps Engineer*
 *Career Start*
 
 - Supported infrastructure for AAA gaming titles including **Mortal Kombat** and **Hogwarts Legacy**
-- Managed configuration management using SaltStack and Chef
+- Managed configuration management using SaltStack
 - AWS infrastructure management for gaming workloads
 - Ensured high availability for game servers and player experiences
 
@@ -87,7 +87,6 @@ Currently, I'm working on **platform engineering** at **Anheuser-Busch**, suppor
 ## 🎯 Core Competencies
 
 ```yaml
-specialties:
   - Platform Engineering & SRE Practices
   - Kubernetes Administration & Architecture
   - Cloud Infrastructure (AWS, Azure, GCP)
@@ -107,7 +106,7 @@ specialties:
 - 🎮 **Gaming Infrastructure**: Scaled infrastructure supporting millions of players for AAA titles
 - 🧪 **Scientific Computing**: Managed HPC workloads for computational chemistry research
 - 🎓 **EdTech Platform**: Built reliable systems for AI-powered educational tools
-- 🍺 **Consumer Brands**: Supporting infrastructure for world-renowned beer brands
+- 🍺 **Consumer Brands**: Supporting infrastructure for world renowned beer brands
 - ☸️ **Kubernetes Expert**: Deep expertise in production Kubernetes deployments across multiple cloud providers
 - 📈 **Observability Advocate**: Champion of monitoring first approach to reliability
 
@@ -115,7 +114,7 @@ specialties:
 
 ## 🎓 Philosophy
 
-> *"Reliability is not just about keeping systems running—it's about building confidence, enabling innovation, and creating platforms that teams love to use."*
+> *"Reliability is not just about keeping systems running.. it's about building confidence, enabling innovation, and creating platforms that teams love to use."*
 
 I believe in:
 - 🔄 **Automation First**: If it can be automated, it should be
@@ -141,7 +140,7 @@ Feel free to reach out if you want to chat about infrastructure, reliability eng
 
 <div align="center">
 
-### 💡 *"In SRE, we don't just put out fires—we build fire-resistant buildings."*
+### 💡 *"It's always DNS."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mguttsait&color=blueviolet&style=for-the-badge)
 
