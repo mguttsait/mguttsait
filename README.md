@@ -113,18 +113,6 @@ specialties:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mguttsait&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mguttsait&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Philosophy
 
 > *"Reliability is not just about keeping systems running—it's about building confidence, enabling innovation, and creating platforms that teams love to use."*
