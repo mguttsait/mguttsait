@@ -1,4 +1,4 @@
-# Hi there, I'm Max 👋
+# Hi there, I'm Макс(Max) 👋
 
 <div align="center">
   
@@ -18,6 +18,8 @@
 I'm a **Site Reliability Engineer** with **5+ years** of experience architecting, building, and maintaining mission critical infrastructure across gaming, scientific computing, education technology, and consumer brands. I specialize in Kubernetes, cloud infrastructure, and creating observable, resilient systems at scale.
 
 Currently, I'm working on **platform engineering** at **Anheuser-Busch**, supporting infrastructure for iconic brands like **Bud Light** and **Michelob Ultra**, where I focus on Kubernetes orchestration, monitoring, and observability.
+
+I love to cook, workout, watch shows, and I speak fluent Russian! 
 
 ---
 
