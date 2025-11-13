@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Site Reliability Engineer | Platform Engineer | Cloud Infrastructure Specialist
+### Site Reliability Engineer | Platform Engineer | DevOps Engineer | Cloud Infrastructure Specialist
 
 *Building robust, scalable infrastructure that powers millions of users worldwide*
 
