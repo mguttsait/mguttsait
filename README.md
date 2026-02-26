@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Site Reliability Engineer** with **5+ years** of experience architecting, building, and maintaining mission critical infrastructure across gaming, scientific computing, education technology, and consumer brands. I specialize in Kubernetes, cloud infrastructure, and creating observable, resilient systems at scale.
 
@@ -23,7 +23,7 @@ I love to cook, workout, watch shows, and I speak fluent Russian!
 
 ---
 
-## 💼 Professional Journey
+## Professional Journey
 
 ### 🍺 **Anheuser-Busch** — *Platform Engineer / Site Reliability Engineer*
 *Current*
@@ -59,7 +59,7 @@ I love to cook, workout, watch shows, and I speak fluent Russian!
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -87,7 +87,7 @@ I love to cook, workout, watch shows, and I speak fluent Russian!
 
 ---
 
-## 🎯 Core Competencies
+## Core Competencies
 
 ```yaml
   - Platform Engineering & SRE Practices
@@ -104,7 +104,7 @@ I love to cook, workout, watch shows, and I speak fluent Russian!
 
 ---
 
-## 🌟 Highlights
+## Highlights
 
 - 🎮 **Gaming Infrastructure**: Scaled infrastructure supporting millions of players for AAA titles
 - 🧪 **Scientific Computing**: Managed HPC workloads for computational chemistry research
@@ -115,20 +115,20 @@ I love to cook, workout, watch shows, and I speak fluent Russian!
 
 ---
 
-## 🎓 Philosophy
+## Philosophy
 
 > *"Reliability is not just about keeping systems running.. it's about building confidence, enabling innovation, and creating platforms that teams love to use."*
 
 I believe in:
-- 🔄 **Automation First**: If it can be automated, it should be
-- 📊 **Data-Driven Decisions**: Metrics and observability guide the way
-- 🤝 **Collaboration**: SRE is a team sport
-- 🚀 **Continuous Improvement**: There's always a better way
-- 🛡️ **Proactive Reliability**: Prevent issues before they become incidents
+- **Automation First**: If it can be automated, it should be
+- **Data-Driven Decisions**: Metrics and observability guide the way
+- **Collaboration**: SRE is a team sport
+- **Continuous Improvement**: There's always a better way
+- **Proactive Reliability**: Prevent issues before they become incidents
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always interested in discussing:
 - Infrastructure architecture and design patterns
@@ -142,8 +142,6 @@ Feel free to reach out if you want to chat about infrastructure, reliability eng
 ---
 
 <div align="center">
-
-### 💡 *"It's always DNS."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mguttsait&color=blueviolet&style=for-the-badge)
 
